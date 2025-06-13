@@ -17,7 +17,7 @@ def add_close_button(window):
         border_color="black",
         fg_color="#ff5353",
         hover_color="#ff1a1a",
-        text_color="white"
+        text_color="red"
     ).pack(pady=5)
 
 def add_back_button(window, command):
